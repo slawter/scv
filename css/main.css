@@ -1,9 +1,17 @@
-.header{
-	width: 100 px;
-	height: 200 px;	
+.header{	
+	height:20%;	
 	background-repeat: no-repeat;
+	background: yellow;
 	text-align: center;
-	float: top;
-	font-weight: bold;
-	
+	font-weight: bold;	
+}
+
+.main{	
+	height:70%;	
+	background: lightblue;
+}
+
+.footer{	
+	height:10%;
+	background: lightgreen;
 }
